@@ -5,8 +5,20 @@ class Pages extends CI_Controller {
 	
 	public function index()
 	{
+		$data['sidemenu'] = $this->load->view('side-menu', '', true);
+
 		$this->load->view('header');
-		$this->load->view('main');
+		$this->load->view('main', $data);
+		$this->load->view('footer');
+	}
+
+	public function show_page($page_id)
+	{
+		
+		$data['sidemenu'] = $this->load->view('side-menu', '', true);
+
+		$this->load->view('header');
+		$this->load->view($page_id, $data);
 		$this->load->view('footer');
 	}
 }

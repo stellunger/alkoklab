@@ -35,18 +35,31 @@
 		
 	</div>
 	
-	<div id="nav" class="clearfix">
+	<div id="masthead">
 		
-		<div class="container">			
+		<div class="container">
 		
-			<ul id="main-nav">				
+			<div id="masthead-carousel" class="carousel slide">
 				
-				<li>
-					<a href="<?php echo base_url(); ?>">Главная</a>
-				</li>
-								
-			</ul>
+				<div class="carousel-inner">
+					<div class="active item">
+						<img src="./img/masthead/masthead.jpg" alt="" />
+				
+						<div class="masthead-details">
+							
+							<h2>Круглосуточная доставка!</h2>
+							
+							<p>Доставим сувенирную продукцию и подарочный алкоголь в любую точку Екатеринбурга!</p>
+							<p>Алкогольные подарки выдаются днем и ночью!</p>							
+							<p><b>Заказать подарок можно по телефону 268-00-37!</b>
+							
+						</div> 
+					</div> 					
+					
+				</div>
+				
+			</div>
 			
 		</div>
-		
-	</div> 	
+	
+	</div>
