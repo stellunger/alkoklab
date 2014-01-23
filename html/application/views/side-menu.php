@@ -1,5 +1,6 @@
 					
-					<p><b><big><a href="<?php echo base_url(); ?>vermouth">Вермут</a></big></b><br>
+					<p><b><big><a href="<?php echo base_url(); ?>special">Акции</a></big></b><br>
+					<b><big><a href="<?php echo base_url(); ?>vermouth">Вермут</a></big></b><br>
 					<b><big><a href="<?php echo base_url(); ?>wine">Вино</a></big></b><br>
 					<b><big><a href="<?php echo base_url(); ?>whiskey">Виски</a></big></b><br>
 					<b><big><a href="<?php echo base_url(); ?>vodka">Водка</a></big></b><br>
