@@ -36,7 +36,7 @@
 
 $(function () {
 	
-	$('#masthead-carousel').carousel ({ interval: false });
+	$('#masthead-carousel').carousel ({ interval: 2000 });
 	
 });
 

@@ -5,7 +5,7 @@
 		
 			<div class="row">
 				<div id="welcome" class="grid-12">
-					<h1> Коньяк</h1>
+					<h1> Магниты Коньяк</h1>
 				</div>
 			</div>
 			
@@ -56,15 +56,6 @@
 					</div>
 				</div>		
 												
-			</div> 
-
-			<div class="row work-container">
-				
-				<div class="grid-3">
-					<h2></h2>					
-					
-				</div>
-
 				<div class="grid-3">
 					<div class="work-item">
 																		

@@ -47,19 +47,52 @@
 				
 						<div class="masthead-details">
 							
-							<h2>Круглосуточная доставка!</h2>
 							
-							<p>Доставим сувенирную продукцию и подарочный алкоголь в любую точку Екатеринбурга!</p>
-							<p>Алкогольные подарки выдаются днем и ночью!</p>							
-							<p><b>Заказать подарок можно по телефону 268-00-37!</b>
 							
-						</div> 
-					</div> 					
+						</div> <!-- /masthead-details -->
+					</div> <!-- /item -->
 					
-				</div>
+					<div class="item">
+						<img src="./img/masthead/masthead-2.jpg" alt="" />
 				
-			</div>
+						<div class="masthead-details">
+							
+							
+							
+						</div> <!-- /masthead-details -->
+					</div> <!-- /item -->
+					
+					<div class="item">
+						<img src="./img/masthead/masthead-4.jpg" alt="" />
+				
+						<div class="masthead-details">
+							
+							
+							
+						</div> <!-- /masthead-details -->
+					</div> <!-- /item -->
+					
+					<div class="item">
+						<img src="./img/masthead/masthead-3.jpg" alt="" />
+				
+						<div class="masthead-details">
+							
+							
+							
+						</div> <!-- /masthead-details -->
+					</div> <!-- /item -->
+					
+				</div> <!-- /carousel-inner -->
+				
+				
+				
+			</div> <!-- /masthead-carousel -->
 			
-		</div>
+		</div> <!-- /container -->
 	
-	</div>
+	</div> <!-- /masthead -->
+
+	<center><a href="<?php echo base_url(); ?>" class="btn btn-success btn-large">Главная</a>
+	<a href="<?php echo base_url(); ?>about" class="btn btn-success btn-large">О нас</a>
+	<a href="<?php echo base_url(); ?>delivery" class="btn btn-success btn-large">Доставка</a>
+	<a href="<?php echo base_url(); ?>questions" class="btn btn-success btn-large">Вопросы</a></center>

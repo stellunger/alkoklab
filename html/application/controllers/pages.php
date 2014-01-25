@@ -8,7 +8,7 @@ class Pages extends CI_Controller {
 		$data['sidemenu'] = $this->load->view('side-menu', '', true);
 
 		$this->load->view('header');
-		$this->load->view('main', $data);
+		$this->load->view('main1', $data);
 		$this->load->view('footer');
 	}
 
@@ -17,7 +17,7 @@ class Pages extends CI_Controller {
 		
 		$data['sidemenu'] = $this->load->view('side-menu', '', true);
 
-		$this->load->view('header');
+		$this->load->view('header1');
 		$this->load->view($page_id, $data);
 		$this->load->view('footer');
 	}

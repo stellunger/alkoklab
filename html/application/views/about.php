@@ -4,6 +4,7 @@
 		<div class="container">
 		
 			<div class="row">
+				
 				<div id="welcome" class="grid-12">
 					<h1> О нашей службе доставки</h1>
 				</div>

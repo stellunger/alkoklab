@@ -5,7 +5,7 @@
 		
 			<div class="row">
 				<div id="welcome" class="grid-12">
-					<h1> Вермут</h1>
+					<h1> Магниты Вермут</h1>
 				</div>
 			</div>
 			

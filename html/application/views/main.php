@@ -17,7 +17,7 @@
 			<div class="row work-container">
 				
 				<div class="grid-3">
-					<?php echo $sidemenu; ?>
+					<?php //echo $sidemenu; ?>
 					
 				</div>
 				
@@ -29,8 +29,6 @@
 						<a class="thumbnail">
 							<img src="<?php echo base_url(); ?>img/products/vodka-small.png" alt="Водка" />
 						</a> <!-- /img -->
-						
-						<p>Подарки дня с ограниченным количеством!</p>
 						
 						<p><a href="<?php echo base_url(); ?>special" class=""><strong>Акция >>
 						</strong></a></p>			
@@ -46,8 +44,6 @@
 							<img src="<?php echo base_url(); ?>img/alko/vermouth.jpg" alt="Вермут" />
 						</a>
 						
-						<p>Закажи фирменные магниты с символикой Martini!</p>
-						
 						<p><a href="<?php echo base_url(); ?>vermouth" class=""><strong>Вермут >>
 						</strong></a></p>
 					</div>
@@ -61,8 +57,6 @@
 						<a class="thumbnail">
 							<img src="<?php echo base_url(); ?>img/alko/wine.jpg" alt="Коньяк" />
 						</a>
-						
-						<p>Подарки с символикой Шардонне, Принц Луи и другие.</p>
 														
 						<p><a href="<?php echo base_url(); ?>wine" class=""><strong>Вино >>
 						</strong></a></p>
@@ -87,8 +81,6 @@
 							<img src="<?php echo base_url(); ?>img/alko/whiskey.jpg" alt="" />
 						</a> <!-- /img -->
 						
-						<p>Богатый выбор магнитов с легендарными брендами!</p>
-						
 						<p><a href="whiskey" class=""><strong>Виски >>
 						</strong></a></p>			
 					</div>
@@ -103,8 +95,6 @@
 							<img src="<?php echo base_url(); ?>img/alko/vodka.jpg" alt="" />
 						</a>
 						
-						<p>Подарки Finlandia, Absolute, Белуга и другие.</p>
-						
 						<p><a href="<?php echo base_url(); ?>vodka" class=""><strong>Водка >>
 						</strong></a></p>
 					</div>
@@ -118,8 +108,6 @@
 						<a class="thumbnail">
 							<img src="<?php echo base_url(); ?>img/alko/gin.jpg" alt="" />
 						</a>
-						
-						<p>Подарочные магниты с символикой легендарного Бифитора!</p>
 														
 						<p><a href="<?php echo base_url(); ?>gin" class=""><strong>Джин >>
 						</strong></a></p>
@@ -144,8 +132,6 @@
 							<img src="<?php echo base_url(); ?>img/alko/champagne.jpg" alt="" />
 						</a> <!-- /img -->
 						
-						<p>Стильные подарочные магниты и отличное игристое - в подарок!</p>
-						
 						<p><a href="<?php echo base_url(); ?>champagne" class=""><strong>Игристые >>
 						</strong></a></p>			
 					</div>
@@ -160,8 +146,6 @@
 							<img src="<?php echo base_url(); ?>img/alko/brandy.jpg" alt="" />
 						</a>
 						
-						<p>В наличии магниты с армянским коньяком и Реми Мартан!</p>
-						
 						<p><a href="<?php echo base_url(); ?>brandy" class=""><strong>Коньяк >>
 						</strong></a></p>
 					</div>
@@ -175,8 +159,6 @@
 						<a class="thumbnail">
 							<img src="<?php echo base_url(); ?>img/alko/liqueur.jpg" alt="" />
 						</a>
-						
-						<p>Магниты и ликеры Бехеровка, Baileys и Ягермастер в подарок!</p>
 														
 						<p><a href="<?php echo base_url(); ?>liqueur" class=""><strong>Ликеры >>
 						</strong></a></p>
@@ -195,15 +177,13 @@
 				<div class="grid-3">
 					<div class="work-item">
 						
-						<h3>Olmeca</h3>
+						<h3>Текила</h3>
 						
 						<a class="thumbnail">
 							<img src="<?php echo base_url(); ?>img/alko/olmeca.jpg" alt="" />
 						</a> <!-- /img -->
 						
-						<p>Легендарные напитки Olmeca - в подарок к красивым магнитам!</p>
-						
-						<p><a href="<?php echo base_url(); ?>olmeca" class=""><strong>Olmeca >>
+						<p><a href="<?php echo base_url(); ?>olmeca" class=""><strong>Текила >>
 						</strong></a></p>			
 					</div>
 				</div>
@@ -216,8 +196,6 @@
 						<a class="thumbnail">
 							<img src="<?php echo base_url(); ?>img/alko/beer.jpg" alt="" />
 						</a>
-						
-						<p>Всегда в наличии богатый выбор магнитов с пивной символикой!</p>
 						
 						<p><a href="<?php echo base_url(); ?>beer" class=""><strong>Пиво >>
 						</strong></a></p>
@@ -232,8 +210,6 @@
 						<a class="thumbnail">
 							<img src="<?php echo base_url(); ?>img/alko/rum.jpg" alt="" />
 						</a>
-						
-						<p>Магниты рома Барсело - отличный сувенир или подарок!</p>
 														
 						<p><a href="<?php echo base_url(); ?>rum" class=""><strong>Ром >>
 						</strong></a></p>
