@@ -43,31 +43,17 @@
 				
 				<div class="carousel-inner">
 					<div class="active item">
-						<img src="./img/masthead/masthead.jpg" alt="" />
-				
-						<div class="masthead-details">
-							
-							
-							
-						</div> <!-- /masthead-details -->
-					</div> <!-- /item -->
-					
-					<div class="item">
 						<img src="./img/masthead/masthead-2.jpg" alt="" />
 				
 						<div class="masthead-details">
-							
-							
-							
-						</div> <!-- /masthead-details -->
-					</div> <!-- /item -->
-					
-					<div class="item">
-						<img src="./img/masthead/masthead-4.jpg" alt="" />
-				
-						<div class="masthead-details">
-							
-							
+
+							<p><b>ШИРОКИЙ ВЫБОР АЛКОГОЛЯ В ПОДАРОК!!!</b></p>
+
+							<p><b>ТОЛЬКО СЕРТЕФЕЦИРОВАННЫЙ АЛКОГОЛЬ!!!</b></p>
+
+							<p><b>НИЗКИЕ ЦЕНЫ, ОТЛИЧНЫЙ СЕРВИС!!!</b></p>
+
+							<p> Сделать заказ проще простого. Позвоните по указанному номеру и мы едем к Вам!</p>
 							
 						</div> <!-- /masthead-details -->
 					</div> <!-- /item -->
@@ -77,11 +63,32 @@
 				
 						<div class="masthead-details">
 							
-							
+							<p><b>ЭКСПРЕСС ДОСТАВКА АЛКОГОЛЯ!!!</b></p>
+
+							<p>Мы доставляем не просто быстро - а очень быстро.</p>
+
+							<p>Время доставки по Екатеринбургу - 30 минут.</p>
 							
 						</div> <!-- /masthead-details -->
 					</div> <!-- /item -->
 					
+					<div class="item">
+						<img src="./img/masthead/masthead-4.jpg" alt="" />
+				
+						<div class="masthead-details">
+							
+							<p><b>МЫ РАБОТАЕМ ДЛЯ ВАС!!!</b></p>
+
+							<p>Доставка алкоголя на дом КРУГЛОСУТОЧНО  - вот что мы
+							предлагаем своим клиентам.</p>
+
+							<p>В будни, выходные, праздники, всегда, в любое время
+							дня или ночи сделайте заказ, и мы приедем к Вам в
+							кратчайшие сроки. </p>
+							
+						</div> <!-- /masthead-details -->
+					</div> <!-- /item -->
+														
 				</div> <!-- /carousel-inner -->
 				
 				

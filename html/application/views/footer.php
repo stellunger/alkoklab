@@ -12,7 +12,7 @@
 						
 					<h3><span class="slash">//</span> Хотите оформить заказ?</h3>
 					
-					<h3>+7 (343) 258-00-37</h3>					
+					<h3>+7 (343) 268-00-37</h3>					
 
 				</div>
 								
@@ -36,7 +36,7 @@
 
 $(function () {
 	
-	$('#masthead-carousel').carousel ({ interval: 2000 });
+	$('#masthead-carousel').carousel ({ interval: 5000 });
 	
 });
 
